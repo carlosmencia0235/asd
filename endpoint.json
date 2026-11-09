@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://pipes-edt-des-fly.trycloudflare.com",
-  "api": "https://pipes-edt-des-fly.trycloudflare.com/api/v1",
-  "updated": "2026-11-09T14:20:07+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-09T18:22:49+00:00"
 }
