@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-09T19:29:41+00:00"
+  "status": "online",
+  "web": "https://treo-erp-offline-subscribers.trycloudflare.com",
+  "api": "https://treo-erp-offline-subscribers.trycloudflare.com/api/v1",
+  "updated": "2026-11-09T19:30:14+00:00"
 }
