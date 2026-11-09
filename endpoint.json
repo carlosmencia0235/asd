@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://cleaning-fair-prices-descriptions.trycloudflare.com",
-  "api": "https://cleaning-fair-prices-descriptions.trycloudflare.com/api/v1",
-  "updated": "2026-11-09T21:55:42+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-09T22:07:33+00:00"
 }
