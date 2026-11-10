@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T14:30:35+00:00"
+  "status": "online",
+  "web": "https://webpage-cycling-cup-styles.trycloudflare.com",
+  "api": "https://webpage-cycling-cup-styles.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T14:30:57+00:00"
 }
