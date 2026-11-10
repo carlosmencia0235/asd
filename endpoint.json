@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T14:34:32+00:00"
+  "status": "online",
+  "web": "https://celebs-leather-univ-logic.trycloudflare.com",
+  "api": "https://celebs-leather-univ-logic.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T14:35:08+00:00"
 }
