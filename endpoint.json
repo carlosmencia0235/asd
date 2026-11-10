@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T13:13:50+00:00"
+  "status": "online",
+  "web": "https://convention-sailing-particle-discussing.trycloudflare.com",
+  "api": "https://convention-sailing-particle-discussing.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T13:13:57+00:00"
 }
