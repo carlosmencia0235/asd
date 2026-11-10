@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T20:12:33+00:00"
+  "status": "online",
+  "web": "https://classroom-existence-organisation-montgomery.trycloudflare.com",
+  "api": "https://classroom-existence-organisation-montgomery.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T20:12:45+00:00"
 }
