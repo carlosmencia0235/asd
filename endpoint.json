@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T18:49:24+00:00"
+  "status": "online",
+  "web": "https://achieved-incidents-gap-sleeps.trycloudflare.com",
+  "api": "https://achieved-incidents-gap-sleeps.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T19:32:44+00:00"
 }
