@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T14:29:53+00:00"
+  "status": "online",
+  "web": "https://licenses-wiring-priority-cia.trycloudflare.com",
+  "api": "https://licenses-wiring-priority-cia.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T14:30:32+00:00"
 }
