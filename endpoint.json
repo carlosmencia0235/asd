@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://interests-mandate-thorough-cod.trycloudflare.com",
-  "api": "https://interests-mandate-thorough-cod.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T12:11:09+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T12:12:24+00:00"
 }
