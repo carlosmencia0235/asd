@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://zones-riders-nights-qualifications.trycloudflare.com",
-  "api": "https://zones-riders-nights-qualifications.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T12:49:42+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T12:53:48+00:00"
 }
