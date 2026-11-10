@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T17:35:36+00:00"
+  "status": "online",
+  "web": "https://sacramento-humanitarian-guy-glossary.trycloudflare.com",
+  "api": "https://sacramento-humanitarian-guy-glossary.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T17:35:57+00:00"
 }
