@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T12:18:31+00:00"
+  "status": "online",
+  "web": "https://abstract-manhattan-minimum-contain.trycloudflare.com",
+  "api": "https://abstract-manhattan-minimum-contain.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T12:18:38+00:00"
 }
