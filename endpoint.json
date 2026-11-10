@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T17:39:40+00:00"
+  "status": "online",
+  "web": "https://commercial-tuition-attacked-heads.trycloudflare.com",
+  "api": "https://commercial-tuition-attacked-heads.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T17:40:04+00:00"
 }
