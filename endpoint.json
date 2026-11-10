@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T13:45:06+00:00"
+  "status": "online",
+  "web": "https://realtors-cloudy-could-reliability.trycloudflare.com",
+  "api": "https://realtors-cloudy-could-reliability.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T13:45:15+00:00"
 }
