@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://attending-mask-juan-females.trycloudflare.com",
-  "api": "https://attending-mask-juan-females.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T11:28:28+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T11:57:17+00:00"
 }
