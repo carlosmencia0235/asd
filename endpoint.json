@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://must-emerging-bases-lafayette.trycloudflare.com",
-  "api": "https://must-emerging-bases-lafayette.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T19:35:48+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T19:39:28+00:00"
 }
