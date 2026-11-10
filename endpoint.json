@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://florists-foo-deny-tells.trycloudflare.com",
-  "api": "https://florists-foo-deny-tells.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T12:36:27+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T12:41:17+00:00"
 }
