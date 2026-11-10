@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T19:39:28+00:00"
+  "status": "online",
+  "web": "https://wishes-salary-tamil-tions.trycloudflare.com",
+  "api": "https://wishes-salary-tamil-tions.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T19:39:39+00:00"
 }
