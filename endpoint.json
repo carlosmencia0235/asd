@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://normal-functions-frog-kenny.trycloudflare.com",
-  "api": "https://normal-functions-frog-kenny.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T11:58:02+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T12:08:32+00:00"
 }
