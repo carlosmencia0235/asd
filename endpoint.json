@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T17:43:37+00:00"
+  "status": "online",
+  "web": "https://school-beverage-helps-handmade.trycloudflare.com",
+  "api": "https://school-beverage-helps-handmade.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T17:43:46+00:00"
 }
