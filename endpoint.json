@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T19:58:53+00:00"
+  "status": "online",
+  "web": "https://eminem-textile-discussing-provinces.trycloudflare.com",
+  "api": "https://eminem-textile-discussing-provinces.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T19:59:04+00:00"
 }
