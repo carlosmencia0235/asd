@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://apps-pipe-infrastructure-smallest.trycloudflare.com",
-  "api": "https://apps-pipe-infrastructure-smallest.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T13:58:59+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T14:07:44+00:00"
 }
