@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://absorption-elevation-results-nevertheless.trycloudflare.com",
-  "api": "https://absorption-elevation-results-nevertheless.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T13:40:14+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T13:45:06+00:00"
 }
