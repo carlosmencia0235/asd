@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://cage-spirits-car-gig.trycloudflare.com",
-  "api": "https://cage-spirits-car-gig.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T12:41:26+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T12:45:37+00:00"
 }
