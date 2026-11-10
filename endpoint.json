@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T12:08:32+00:00"
+  "status": "online",
+  "web": "https://itunes-troubleshooting-marking-advances.trycloudflare.com",
+  "api": "https://itunes-troubleshooting-marking-advances.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T12:08:42+00:00"
 }
