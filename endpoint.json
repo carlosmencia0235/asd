@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-10T21:19:48+00:00"
+  "status": "online",
+  "web": "https://spectacular-besides-sculpture-lancaster.trycloudflare.com",
+  "api": "https://spectacular-besides-sculpture-lancaster.trycloudflare.com/api/v1",
+  "updated": "2026-11-10T21:34:57+00:00"
 }
