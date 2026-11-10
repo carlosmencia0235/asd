@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://minister-hosts-rivers-gibraltar.trycloudflare.com",
-  "api": "https://minister-hosts-rivers-gibraltar.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T13:03:14+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T13:12:08+00:00"
 }
