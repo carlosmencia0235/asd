@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://algebra-evaluating-leather-purpose.trycloudflare.com",
-  "api": "https://algebra-evaluating-leather-purpose.trycloudflare.com/api/v1",
-  "updated": "2026-11-10T13:12:15+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-10T13:13:50+00:00"
 }
