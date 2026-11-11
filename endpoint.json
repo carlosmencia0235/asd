@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-11T13:59:13+00:00"
+  "status": "online",
+  "web": "https://garden-prescription-structural-interviews.trycloudflare.com",
+  "api": "https://garden-prescription-structural-interviews.trycloudflare.com/api/v1",
+  "updated": "2026-11-11T13:59:23+00:00"
 }
