@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://spine-jeans-utility-mazda.trycloudflare.com",
-  "api": "https://spine-jeans-utility-mazda.trycloudflare.com/api/v1",
-  "updated": "2026-11-11T14:03:20+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-11T14:05:24+00:00"
 }
