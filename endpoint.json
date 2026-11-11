@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-11T13:14:54+00:00"
+  "status": "online",
+  "web": "https://sound-standard-pennsylvania-concert.trycloudflare.com",
+  "api": "https://sound-standard-pennsylvania-concert.trycloudflare.com/api/v1",
+  "updated": "2026-11-11T13:15:05+00:00"
 }
