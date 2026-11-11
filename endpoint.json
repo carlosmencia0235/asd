@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-11T12:33:06+00:00"
+  "status": "online",
+  "web": "https://classical-till-hello-calls.trycloudflare.com",
+  "api": "https://classical-till-hello-calls.trycloudflare.com/api/v1",
+  "updated": "2026-11-11T12:33:19+00:00"
 }
