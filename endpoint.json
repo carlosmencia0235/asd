@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://powered-ended-marker-administrator.trycloudflare.com",
-  "api": "https://powered-ended-marker-administrator.trycloudflare.com/api/v1",
-  "updated": "2026-11-11T14:08:39+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-11T16:00:15+00:00"
 }
