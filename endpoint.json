@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://ent-supreme-scanner-conclusions.trycloudflare.com",
-  "api": "https://ent-supreme-scanner-conclusions.trycloudflare.com/api/v1",
-  "updated": "2026-11-11T14:05:32+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-11T14:07:38+00:00"
 }
