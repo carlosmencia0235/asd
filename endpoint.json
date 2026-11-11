@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-11T13:38:27+00:00"
+  "status": "online",
+  "web": "https://ipaq-istanbul-enters-burner.trycloudflare.com",
+  "api": "https://ipaq-istanbul-enters-burner.trycloudflare.com/api/v1",
+  "updated": "2026-11-11T13:38:37+00:00"
 }
