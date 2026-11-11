@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://audit-great-serial-nec.trycloudflare.com",
-  "api": "https://audit-great-serial-nec.trycloudflare.com/api/v1",
-  "updated": "2026-11-11T13:29:33+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-11T13:38:27+00:00"
 }
