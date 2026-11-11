@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-11T16:00:15+00:00"
+  "status": "online",
+  "web": "https://reproductive-offices-twin-harbour.trycloudflare.com",
+  "api": "https://reproductive-offices-twin-harbour.trycloudflare.com/api/v1",
+  "updated": "2026-11-11T16:00:22+00:00"
 }
