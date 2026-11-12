@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://preservation-because-checked-background.trycloudflare.com",
-  "api": "https://preservation-because-checked-background.trycloudflare.com/api/v1",
-  "updated": "2026-11-12T02:21:47+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-12T02:52:16+00:00"
 }
