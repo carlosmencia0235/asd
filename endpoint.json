@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://realm-announcement-frontpage-grocery.trycloudflare.com",
-  "api": "https://realm-announcement-frontpage-grocery.trycloudflare.com/api/v1",
-  "updated": "2026-11-12T18:41:02+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-12T18:41:49+00:00"
 }
