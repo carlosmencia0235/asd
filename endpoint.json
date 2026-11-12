@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://rings-alan-arising-courses.trycloudflare.com",
-  "api": "https://rings-alan-arising-courses.trycloudflare.com/api/v1",
-  "updated": "2026-11-12T02:52:29+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-12T02:57:17+00:00"
 }
