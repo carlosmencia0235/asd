@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-12T22:56:33+00:00"
+  "status": "online",
+  "web": "https://deadline-winners-anybody-grow.trycloudflare.com",
+  "api": "https://deadline-winners-anybody-grow.trycloudflare.com/api/v1",
+  "updated": "2026-11-12T22:56:44+00:00"
 }
