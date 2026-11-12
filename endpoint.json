@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-12T03:28:16+00:00"
+  "status": "online",
+  "web": "https://departmental-consider-recovery-live.trycloudflare.com",
+  "api": "https://departmental-consider-recovery-live.trycloudflare.com/api/v1",
+  "updated": "2026-11-12T03:28:24+00:00"
 }
