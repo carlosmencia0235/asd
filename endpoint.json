@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-12T03:07:47+00:00"
+  "status": "online",
+  "web": "https://newer-retention-trembl-para.trycloudflare.com",
+  "api": "https://newer-retention-trembl-para.trycloudflare.com/api/v1",
+  "updated": "2026-11-12T03:07:54+00:00"
 }
