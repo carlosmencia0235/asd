@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-13T19:58:06+00:00"
+  "status": "online",
+  "web": "https://marion-warnings-promoted-brain.trycloudflare.com",
+  "api": "https://marion-warnings-promoted-brain.trycloudflare.com/api/v1",
+  "updated": "2026-11-13T19:58:14+00:00"
 }
