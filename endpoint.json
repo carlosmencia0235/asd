@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-13T20:08:19+00:00"
+  "status": "online",
+  "web": "https://reminder-participants-varieties-bath.trycloudflare.com",
+  "api": "https://reminder-participants-varieties-bath.trycloudflare.com/api/v1",
+  "updated": "2026-11-13T20:08:28+00:00"
 }
