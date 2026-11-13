@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-13T20:12:12+00:00"
+  "status": "online",
+  "web": "https://cooper-agricultural-through-may.trycloudflare.com",
+  "api": "https://cooper-agricultural-through-may.trycloudflare.com/api/v1",
+  "updated": "2026-11-13T20:12:20+00:00"
 }
