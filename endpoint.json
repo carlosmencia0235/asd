@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-13T21:23:07+00:00"
+  "status": "online",
+  "web": "https://species-legend-valuable-democrat.trycloudflare.com",
+  "api": "https://species-legend-valuable-democrat.trycloudflare.com/api/v1",
+  "updated": "2026-11-13T21:23:14+00:00"
 }
