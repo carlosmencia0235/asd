@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-13T21:20:34+00:00"
+  "status": "online",
+  "web": "https://bacteria-congratulations-behaviour-dialog.trycloudflare.com",
+  "api": "https://bacteria-congratulations-behaviour-dialog.trycloudflare.com/api/v1",
+  "updated": "2026-11-13T21:20:47+00:00"
 }
