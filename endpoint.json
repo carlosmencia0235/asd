@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-13T02:56:17+00:00"
+  "status": "online",
+  "web": "https://hope-saver-bosnia-michigan.trycloudflare.com",
+  "api": "https://hope-saver-bosnia-michigan.trycloudflare.com/api/v1",
+  "updated": "2026-11-13T02:56:28+00:00"
 }
