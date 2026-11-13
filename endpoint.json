@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://sellers-accessible-download-charles.trycloudflare.com",
-  "api": "https://sellers-accessible-download-charles.trycloudflare.com/api/v1",
-  "updated": "2026-11-13T16:51:34+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-13T19:18:13+00:00"
 }
