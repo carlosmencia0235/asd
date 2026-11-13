@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://accessible-venues-warning-appearing.trycloudflare.com",
-  "api": "https://accessible-venues-warning-appearing.trycloudflare.com/api/v1",
-  "updated": "2026-11-13T20:16:20+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-13T20:20:12+00:00"
 }
