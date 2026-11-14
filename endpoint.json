@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://ourselves-cet-anaheim-benchmark.trycloudflare.com",
-  "api": "https://ourselves-cet-anaheim-benchmark.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T05:45:48+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T05:47:57+00:00"
 }
