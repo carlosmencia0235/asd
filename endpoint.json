@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://hammer-souls-marking-properties.trycloudflare.com",
-  "api": "https://hammer-souls-marking-properties.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T14:10:37+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T18:18:45+00:00"
 }
