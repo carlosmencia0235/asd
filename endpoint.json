@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://groups-trailers-jackie-mia.trycloudflare.com",
-  "api": "https://groups-trailers-jackie-mia.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T14:08:28+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T14:10:22+00:00"
 }
