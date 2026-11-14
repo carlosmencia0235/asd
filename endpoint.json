@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-14T11:32:03+00:00"
+  "status": "online",
+  "web": "https://made-essence-quotations-new.trycloudflare.com",
+  "api": "https://made-essence-quotations-new.trycloudflare.com/api/v1",
+  "updated": "2026-11-14T11:32:20+00:00"
 }
