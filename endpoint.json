@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-14T13:51:06+00:00"
+  "status": "online",
+  "web": "https://jump-shop-borders-penn.trycloudflare.com",
+  "api": "https://jump-shop-borders-penn.trycloudflare.com/api/v1",
+  "updated": "2026-11-14T13:55:24+00:00"
 }
