@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-14T03:26:43+00:00"
+  "status": "online",
+  "web": "https://competitive-static-recruiting-achieving.trycloudflare.com",
+  "api": "https://competitive-static-recruiting-achieving.trycloudflare.com/api/v1",
+  "updated": "2026-11-14T03:27:16+00:00"
 }
