@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://nomination-endif-batch-oecd.trycloudflare.com",
-  "api": "https://nomination-endif-batch-oecd.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T04:16:13+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T04:20:51+00:00"
 }
