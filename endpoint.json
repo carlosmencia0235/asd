@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://office-fundamental-electoral-capable.trycloudflare.com",
-  "api": "https://office-fundamental-electoral-capable.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T03:22:27+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T03:26:43+00:00"
 }
