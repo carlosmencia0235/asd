@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://acts-louisville-bandwidth-container.trycloudflare.com",
-  "api": "https://acts-louisville-bandwidth-container.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T13:48:02+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T13:51:06+00:00"
 }
