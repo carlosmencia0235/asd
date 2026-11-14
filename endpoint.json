@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://beth-platforms-cigarette-refurbished.trycloudflare.com",
-  "api": "https://beth-platforms-cigarette-refurbished.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T11:59:18+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T13:47:46+00:00"
 }
