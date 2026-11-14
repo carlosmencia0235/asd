@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://arcade-mail-seat-wonder.trycloudflare.com",
-  "api": "https://arcade-mail-seat-wonder.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T04:21:55+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T05:30:17+00:00"
 }
