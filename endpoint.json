@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-14T03:19:33+00:00"
+  "status": "online",
+  "web": "https://powerseller-newspaper-notebooks-projected.trycloudflare.com",
+  "api": "https://powerseller-newspaper-notebooks-projected.trycloudflare.com/api/v1",
+  "updated": "2026-11-14T03:19:49+00:00"
 }
