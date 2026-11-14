@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://nikon-exec-midi-coordination.trycloudflare.com",
-  "api": "https://nikon-exec-midi-coordination.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T04:10:46+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T04:15:57+00:00"
 }
