@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://tough-grade-projectors-ronald.trycloudflare.com",
-  "api": "https://tough-grade-projectors-ronald.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T03:16:22+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T03:19:33+00:00"
 }
