@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://electronics-cheese-entirely-screenshot.trycloudflare.com",
-  "api": "https://electronics-cheese-entirely-screenshot.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T05:30:33+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T05:44:07+00:00"
 }
