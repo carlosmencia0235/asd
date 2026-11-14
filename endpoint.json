@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://raising-vermont-fundamentals-formats.trycloudflare.com",
-  "api": "https://raising-vermont-fundamentals-formats.trycloudflare.com/api/v1",
-  "updated": "2026-11-14T05:48:13+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-14T11:28:44+00:00"
 }
