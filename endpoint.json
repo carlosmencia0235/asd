@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-16T23:36:07+00:00"
+  "status": "online",
+  "web": "https://ian-connectivity-transcription-host.trycloudflare.com",
+  "api": "https://ian-connectivity-transcription-host.trycloudflare.com/api/v1",
+  "updated": "2026-11-16T23:36:23+00:00"
 }
