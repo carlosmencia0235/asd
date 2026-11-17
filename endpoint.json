@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://nav-today-subdivision-charger.trycloudflare.com",
-  "api": "https://nav-today-subdivision-charger.trycloudflare.com/api/v1",
-  "updated": "2026-11-16T23:40:03+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-17T00:26:19+00:00"
 }
