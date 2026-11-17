@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-17T00:53:22+00:00"
+  "status": "online",
+  "web": "https://perfectly-incorporate-valentine-therefore.trycloudflare.com",
+  "api": "https://perfectly-incorporate-valentine-therefore.trycloudflare.com/api/v1",
+  "updated": "2026-11-17T00:53:38+00:00"
 }
