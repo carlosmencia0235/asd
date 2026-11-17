@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://parade-accidents-silk-age.trycloudflare.com",
-  "api": "https://parade-accidents-silk-age.trycloudflare.com/api/v1",
-  "updated": "2026-11-17T00:48:33+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-17T00:53:22+00:00"
 }
