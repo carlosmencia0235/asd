@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://attending-installing-functionality-palestinian.trycloudflare.com",
-  "api": "https://attending-installing-functionality-palestinian.trycloudflare.com/api/v1",
-  "updated": "2026-11-17T00:26:35+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-17T00:45:23+00:00"
 }
