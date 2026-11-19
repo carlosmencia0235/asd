@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "online",
-  "web": "https://spotlight-operated-exactly-usgs.trycloudflare.com",
-  "api": "https://spotlight-operated-exactly-usgs.trycloudflare.com/api/v1",
-  "updated": "2026-11-19T06:02:32+00:00"
+  "web": "https://api.trycloudflare.com",
+  "api": "https://api.trycloudflare.com/api/v1",
+  "updated": "2026-11-19T06:19:44+00:00"
 }
