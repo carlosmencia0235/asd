@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "online",
-  "web": "https://hash-moisture-rejected-acid.trycloudflare.com",
-  "api": "https://hash-moisture-rejected-acid.trycloudflare.com/api/v1",
-  "updated": "2026-11-19T05:30:09+00:00"
+  "web": "https://api.trycloudflare.com",
+  "api": "https://api.trycloudflare.com/api/v1",
+  "updated": "2026-11-19T05:45:55+00:00"
 }
