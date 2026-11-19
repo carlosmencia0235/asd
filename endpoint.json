@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://thomson-names-possibilities-provides.trycloudflare.com",
-  "api": "https://thomson-names-possibilities-provides.trycloudflare.com/api/v1",
-  "updated": "2026-11-19T06:20:51+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-19T16:00:09+00:00"
 }
