@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://preserve-banana-corn-die.trycloudflare.com",
-  "api": "https://preserve-banana-corn-die.trycloudflare.com/api/v1",
-  "updated": "2026-11-23T11:10:48+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-23T14:23:31+00:00"
 }
