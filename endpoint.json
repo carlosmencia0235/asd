@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://supporting-sunday-bids-confidentiality.trycloudflare.com",
-  "api": "https://supporting-sunday-bids-confidentiality.trycloudflare.com/api/v1",
-  "updated": "2026-11-25T00:31:17+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-25T00:31:38+00:00"
 }
