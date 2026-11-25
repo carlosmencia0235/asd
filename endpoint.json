@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://apartments-beliefs-pittsburgh-rhode.trycloudflare.com",
-  "api": "https://apartments-beliefs-pittsburgh-rhode.trycloudflare.com/api/v1",
-  "updated": "2026-11-25T00:36:40+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-25T00:37:30+00:00"
 }
