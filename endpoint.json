@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://sell-solutions-okay-exemption.trycloudflare.com",
-  "api": "https://sell-solutions-okay-exemption.trycloudflare.com/api/v1",
-  "updated": "2026-11-25T01:54:45+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-25T12:20:37+00:00"
 }
