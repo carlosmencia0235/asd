@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://basic-allied-collected-audio.trycloudflare.com",
-  "api": "https://basic-allied-collected-audio.trycloudflare.com/api/v1",
-  "updated": "2026-11-25T00:24:02+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-25T00:26:20+00:00"
 }
