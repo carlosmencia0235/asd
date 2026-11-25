@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-25T01:52:28+00:00"
+  "status": "online",
+  "web": "https://hidden-scene-vintage-locally.trycloudflare.com",
+  "api": "https://hidden-scene-vintage-locally.trycloudflare.com/api/v1",
+  "updated": "2026-11-25T01:52:39+00:00"
 }
