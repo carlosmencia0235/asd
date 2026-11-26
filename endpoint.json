@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://garage-retained-photography-oem.trycloudflare.com",
-  "api": "https://garage-retained-photography-oem.trycloudflare.com/api/v1",
-  "updated": "2026-11-26T22:01:08+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-26T22:07:20+00:00"
 }
