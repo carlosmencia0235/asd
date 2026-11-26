@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-26T15:58:42+00:00"
+  "status": "online",
+  "web": "https://bases-bold-integrating-endless.trycloudflare.com",
+  "api": "https://bases-bold-integrating-endless.trycloudflare.com/api/v1",
+  "updated": "2026-11-26T15:58:54+00:00"
 }
