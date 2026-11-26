@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://perspectives-greatest-sci-trying.trycloudflare.com",
-  "api": "https://perspectives-greatest-sci-trying.trycloudflare.com/api/v1",
-  "updated": "2026-11-25T13:14:25+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-26T01:24:45+00:00"
 }
