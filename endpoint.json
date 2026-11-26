@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "online",
-  "web": "https://wool-submitting-rendering-post.trycloudflare.com",
-  "api": "https://wool-submitting-rendering-post.trycloudflare.com/api/v1",
-  "updated": "2026-11-26T21:42:29+00:00"
+  "status": "offline",
+  "web": null,
+  "api": null,
+  "updated": "2026-11-26T22:00:55+00:00"
 }
