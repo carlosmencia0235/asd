@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-26T14:35:17+00:00"
+  "status": "online",
+  "web": "https://adam-nova-sorted-designs.trycloudflare.com",
+  "api": "https://adam-nova-sorted-designs.trycloudflare.com/api/v1",
+  "updated": "2026-11-26T14:35:29+00:00"
 }
