@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-26T02:31:46+00:00"
+  "status": "online",
+  "web": "https://pottery-eligible-expo-code.trycloudflare.com",
+  "api": "https://pottery-eligible-expo-code.trycloudflare.com/api/v1",
+  "updated": "2026-11-26T02:32:22+00:00"
 }
