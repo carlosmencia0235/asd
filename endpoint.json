@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-26T01:32:28+00:00"
+  "status": "online",
+  "web": "https://see-sic-economy-chassis.trycloudflare.com",
+  "api": "https://see-sic-economy-chassis.trycloudflare.com/api/v1",
+  "updated": "2026-11-26T01:32:40+00:00"
 }
