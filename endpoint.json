@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-26T15:19:22+00:00"
+  "status": "online",
+  "web": "https://submissions-copying-marathon-linking.trycloudflare.com",
+  "api": "https://submissions-copying-marathon-linking.trycloudflare.com/api/v1",
+  "updated": "2026-11-26T15:19:34+00:00"
 }
