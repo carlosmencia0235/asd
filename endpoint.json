@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-26T21:19:18+00:00"
+  "status": "online",
+  "web": "https://comments-committees-dedicated-hypothesis.trycloudflare.com",
+  "api": "https://comments-committees-dedicated-hypothesis.trycloudflare.com/api/v1",
+  "updated": "2026-11-26T21:19:36+00:00"
 }
