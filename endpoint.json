@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "status": "offline",
-  "web": null,
-  "api": null,
-  "updated": "2026-11-28T00:24:47+00:00"
+  "status": "online",
+  "web": "https://geographical-featuring-lawrence-passive.trycloudflare.com",
+  "api": "https://geographical-featuring-lawrence-passive.trycloudflare.com/api/v1",
+  "updated": "2026-11-28T00:25:25+00:00"
 }
